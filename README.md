@@ -2,12 +2,12 @@
 Programming is an engaging puzzle. I graduated high school, completing the IT track. I knew technology was for me at a young age. I started programming in Java and moved on to Python. In college, I am continuing my passion for technology and working towards getting my degree in computer science.
 
 ## Skills
-Experience running a debugger
-Object-oriented programming
-Troubleshooting skills
-Game Development
-Teamwork and Collaboration
-git
+Experience running a debugger, 
+Object-oriented programming, 
+Troubleshooting skills, 
+Game Development, 
+Teamwork and Collaboration, 
+git, 
 Docker
 
 ### Classes
