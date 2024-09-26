@@ -21,13 +21,13 @@ Discrete Structures · Comp 283: I'm currently studying discrete structures, inc
 
 ### Tools and Programming Languages
 I currently know:
-Java
+Java, 
 Python
 
 I will learn:
-CSS
-JavaScript
-HTML
+CSS, 
+JavaScript, 
+HTML, 
 React
 
 ### Projects
